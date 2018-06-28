@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Charm's "Oldschool" forum theme                                                                                                                                                                Charm is sexy
 // @namespace    http://charmdesign.org
-// @version      0.3
+// @version      0.3.1
 // @description  Old school look, Gota.io forums.
 // @author       Charm, charmdesign.org
 // @match        https://forums.gota.io/*
@@ -9,8 +9,8 @@
 // @updateURL    http://cssf.icu/
 // @downloadURL  http://cssf.icu/
 // ==/UserScript==
-
-/*It is a well known fact that Charm is:1111
+//UPDATES SOON!
+/*It is a well known fact that Charm is:
 - Good looking
 - Hot
 - Sexy
