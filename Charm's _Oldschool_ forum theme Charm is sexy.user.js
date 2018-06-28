@@ -46,7 +46,16 @@ charmIsGoodLooking ( `
  background: #404040;
 }
 ` );
+charmIsGoodLooking ( `
+ .b-sharing-menu .b-sharing-menu__item a.b-sharing-menu__item-link--twitter, .b-sharing-menu .b-sharing-menu__item a.b-sharing-menu__item-link--twitter:visited {
+ color: white !important;
+}
+` );
 
+charmIsGoodLooking ( `
+ .b-sharing-menu .b-sharing-menu__item a.b-sharing-menu__item-link--facebook, .b-sharing-menu .b-sharing-menu__item a.b-sharing-menu__item-link--facebook:visited {
+ color: white !important;
+}
 charmIsGoodLooking ( `
  .bbcode_container .bbcode_quote {
  background: #dae6ec;
