@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Charm's "Oldschool" forum theme                                                                                                                                                                Charm is sexy
 // @namespace    http://charmdesign.org
-// @version      0.3.1.0.1
+// @version      0.3.2
 // @description  Old school look, Gota.io forums.
 // @author       Charm, charmdesign.org
 // @match        https://forums.gota.io/*
