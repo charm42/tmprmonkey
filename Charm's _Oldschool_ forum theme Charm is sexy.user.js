@@ -61,7 +61,7 @@ charmIsGoodLooking ( `
 
 charmIsGoodLooking ( `
 .b-link-content__urlinfo-url {
- color: #2379b5;
+ color: #2379b5; !important
 }
 ` );
 
