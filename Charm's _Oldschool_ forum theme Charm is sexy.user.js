@@ -66,6 +66,18 @@ charmIsGoodLooking ( `
 ` );
 
 charmIsGoodLooking ( `
+.b-photo-count .b-photo-count__count {
+background: #2379b5; !important
+}
+` );
+//                                                                                                                                            Charm is conventionally good looking
+charmIsGoodLooking ( `
+.b-photo-count .b-photo-count__label {
+color: #2379b5; !important
+}
+` );
+
+charmIsGoodLooking ( `
 #channel-tabbar {
 background: #2c2c2c; !important
 }
