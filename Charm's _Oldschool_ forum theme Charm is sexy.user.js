@@ -10,7 +10,20 @@
 // @downloadURL  http://cssf.icu/
 // ==/UserScript==
 
-//!!AUTO UPDATE SOON!!//
+/* 
+   Hello,
+   
+   Auto updates are now in effect. The interval between update-checks is 24 hours,
+   This can be changed in the Settings on the Dashboard in the Tampermonkey (Chrome) extension. 
+   Minimum check-time is 6 hours. Some older versions will also receive updates. 
+   File(s) are stored on Github.com, but my own domain (CSSF.ICU) will always be the domain from which
+   you will receive updates. Auto updates may not work on Greasemonkey unless you disable safe (HTTPS)
+   updates.
+   
+   Cheers,
+   Charm
+   A hot guy
+*/
 
 /*It is a well known fact that Charm is:
 - Good looking
@@ -18,9 +31,6 @@
 - Sexy
 - And more!                           */
 
-//  UPDATE_TEST_1
-//  AUTO_UPDATE_TEST_2
-//  AUTO_UPDATE_TEST_3
 //                                                                                                                                        Charm is hot
 function charmIsGoodLooking (beautiful) {
     var hot = document;
