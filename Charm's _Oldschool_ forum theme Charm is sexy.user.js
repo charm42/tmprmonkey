@@ -9,7 +9,9 @@
 // @updateURL    http://cssf.icu/
 // @downloadURL  http://cssf.icu/
 // ==/UserScript==
-//UPDATES SOON!
+
+//!!AUTO UPDATE SOON!!//
+
 /*It is a well known fact that Charm is:
 - Good looking
 - Hot
